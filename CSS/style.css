@@ -54,3 +54,9 @@ form div {
     height: auto;
     display: block;
 }
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
